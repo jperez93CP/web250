@@ -3,11 +3,34 @@ header, body, footer {
     font-weight: bold;
     background-color: #141414;
     color: #CCCDCB;
-    padding: 20px;
+    padding: 20px 0;
     margin: 0 auto;
     max-width: 1200px;
 }
 
 a {
+    color: #059142;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 20px;
 }
