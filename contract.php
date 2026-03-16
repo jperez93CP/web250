@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jordan Perez's Jubilant Parakeet | WEB250 | Contract</title>
+    <link rel="stylesheet" href="styles/default.css" />
+    <script src="scripts/HTMLInclude.js" defer></script>
+    <script
+      src="https://lint.page/kit/67ff88.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <?php include 'components/header.html'; ?>
+    <main>
+      <h2>Contract</h2>
+      <p>
+        I, <a href="introduction.html">Jordan A. Perez</a>, agree to abide by
+        the terms in my SP26 WEB250-N850 Database Driven Websites course with my
+        instructor, Prof. D.I. von Briesen.
+      </p>
+      <p>
+        I understand that all work that I do on my school and personal websites
+        will be publicly available to the world. I will not put information
+        there that is inappropriate for schoolwork, or that I wish to keep
+        private.
+      </p>
+      <p>
+        I also understand that it is my work that counts for attendance, not
+        logins or showing up for class. As such, failure to turn in assignments
+        may show as absences.
+      </p>
+      <p>
+        Signed: <span class="signature">Jordan A. Perez, 26 February 2026</span>
+      </p>
+    </main>
+    <?php include 'components/footer.html'; ?>
+  </body>
+</html>
