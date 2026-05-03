@@ -37,13 +37,13 @@ $title = $pages[$page];
       <li><a href="?page=contract">Contract</a></li>
       <li>
         <a
-          href="https://jperez93cp.github.io/web250/multipage_sites/superduper_static/index.htm"
+          href="multipage_sites/superduper_static/index.htm"
           >MP Static</a
         >
       </li>
       <li>
         <a
-          href="https://jperez93cp.github.io/web250/multipage_sites/superduper_php/index.php"
+          href="multipage_sites/superduper_php/index.php"
           >MP PHP</a
         >
       </li>
