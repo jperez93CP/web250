@@ -32,9 +32,9 @@ $title = $pages[$page];
     <h1>Jordan Perez's Jubilant Parakeet | WEB250</h1>
   <nav>
     <ul>
-      <li><a href="contents/home.php">Home</a></li>
-      <li><a href="contents/introduction.php">Introduction</a></li>
-      <li><a href="contents/contract.php">Contract</a></li>
+      <li><a href="?page=home">Home</a></li>
+      <li><a href="?page=introduction">Introduction</a></li>
+      <li><a href="?page=contract">Contract</a></li>
       <li>
         <a
           href="https://jperez93cp.github.io/web250/multipage_sites/superduper_static/index.htm"
