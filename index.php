@@ -47,6 +47,8 @@ $title = $pages[$page];
           >MP PHP</a
         >
       </li>
+      <li><a href="joyofphp/joyphp/src">Joy Of PHP</a></li>
+      <li><a href="joyofphp/joyphp/src/samsusedcars.html">Sam's Used Cars</a></li>
     </ul>
   </nav>
 </header>
